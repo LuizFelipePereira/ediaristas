@@ -33,9 +33,6 @@ const theme = createTheme({
                400: '#9B9B9B',
           },
      },
-     telegraphy: {
-          fontFamily: 'Poppins',
-     },
      shape: {
           borderRadius: '3px',
      },
